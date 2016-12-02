@@ -59,10 +59,10 @@
 ### Array functions
 
 * Calling a specific item with `[]`
-* `push()`
-* `slice()`
+* `push()` - add a new item
+* `splice()` - remove an item at defined position
 
-### Exercise: Pushing to array and slicing it
+### Exercise: Pushing to array and splicing it
 
 ------
 
@@ -97,7 +97,7 @@
 * `while` and `do/while`
 
 ```
-for (var i = 0; i < 10, i++) {
+for (var i = 0; i < 10; i++) {
     console.log("This is a looped line" + i);
 }
 ````
