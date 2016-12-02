@@ -2,11 +2,9 @@
 
 ## Disclaimer
 
-The idea and most of the flow of this class was lifted from ["Practical Javascript"](https://watchandcode.com/p/practical-javascript) by Gordon Zhu.
+The idea and most of the flow of this class was lifted from ["Practical Javascript"](https://watchandcode.com/p/practical-javascript) by Gordon Zhu. NOTE: We used Hyperdev for the whole day but Gordon only used it for his last chapter. I suggest you just keep using Hyperdev - it's basically the same thing as Plunker.
 
-I figured his course was nice and well-vetted, better than I could ever do in one day, and so I based most of today's class on it.
-
-It also gives you an online resource to refer to so that you can come back to it at any time. But of course, you can always ask me anything in the future.
+I figured his course was nice and well-vetted, better than I could ever do in one day, and so I based most of today's class on it. It also gives you an online resource to refer to so that you can come back to it at any time. But of course, you can always ask me anything in the future.
 
 One last thing: I learnt JS from scratch, so I usually can "humanize" the language. Ask me at any point for a layman analogy if you don't quite get the terminology.
 
