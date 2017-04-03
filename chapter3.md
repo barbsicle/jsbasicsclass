@@ -44,8 +44,8 @@ function Car(color, brand, wheels) {
     this.color = color;
     this.brand = brand;
     this.wheels = wheels;
-    function horn() {
-        console.log("Beep beep beep!);
+    this.horn = function() {
+        console.log("Beep beep beep!");
     };
 }
 
